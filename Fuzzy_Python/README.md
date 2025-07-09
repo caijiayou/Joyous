@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://lh4.googleusercontent.com/vBB2XM0tJ-OvXGTTLuMXYuBUkXnOXfWAoBOYL2VnJje597yAWkC8Xg7gb1xbu2gAydISjKy0EdDRLh5VA-Sy3B5AnGdnXJ8UJUl3lYV1z53VP71hj4tshilLx4AZUl-7W7kCc0YiHeQ=w16383" width="50" alt="Joyous 工程師の師">
+      <img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-1/429534247_7533399126726406_10325500957020331_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=2_2hCce7LlgQ7kNvwFBh76G&_nc_oc=Adl3jag6NZXDrBd_EKofNun6rpZjkW5BRY5PV2Xa5rbBiuXOQ-bDWvWr2OcwIcMO2Lc&_nc_zt=24&_nc_ht=scontent.fkhh1-1.fna&_nc_gid=R_c2gWUVTT2cpLlWImUNLA&oh=00_AfTROn5CGlEJ_L4TxTwNQgDmn-KqWKT0oSR2DZVfv4aF5A&oe=687435A3" width="50" alt="Joyous 工程師の師">
     </td>
     <td>
       <h1>Joyous 工程師の師</h1>
@@ -32,6 +32,6 @@
 - networkx
 - scikit-fuzzy
 
-## ✅ 安裝 requirements.txt 的指令：
+## ✅ 運行環境：
 ```python
-pip install -r requirements.txt
+>> Anaconda_env.yaml
